@@ -1,0 +1,91 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset
+      xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+      xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+      xsi:schemaLocation="http://www.sitemaps.org/schemas/sitemap/0.9
+            http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd"> 
+ 
+<url>
+  <loc>http://site.ru</loc>
+  <lastmod>2018-04-11T08:40:20+02:00</lastmod>
+  <priority>1.00</priority>
+</url>
+ 
+<url>
+  <loc>http://site.ru/first</loc>
+  <lastmod>2018-04-11T08:40:20+02:00</lastmod>
+  <priority>0.80</priority>
+</url>
+ 
+<url>
+  <loc>http://site.ru/first/a1</loc>
+  <lastmod>2018-04-11T08:40:20+02:00</lastmod>
+  <priority>0.60</priority>
+</url>
+ 
+<url>
+  <loc>http://site.ru/first/a2</loc>
+  <lastmod>2018-04-11T08:40:20+02:00</lastmod>
+  <priority>0.60</priority>
+</url>
+ 
+<url>
+  <loc>http://site.ru/first/a3</loc>
+  <lastmod>2018-04-11T08:40:20+02:00</lastmod>
+  <priority>0.60</priority>
+</url>
+ 
+<url>
+  <loc>http://site.ru/second</loc>
+  <lastmod>2018-04-11T08:40:20+02:00</lastmod>
+  <priority>0.80</priority>
+</url>
+ 
+<url>
+  <loc>http://site.ru/second/b1</loc>
+  <lastmod>2018-04-11T08:40:20+02:00</lastmod>
+  <priority>0.60</priority>
+</url>
+ 
+<url>
+  <loc>http://site.ru/second/b1/c1</loc>
+  <lastmod>2018-04-11T08:40:20+02:00</lastmod>
+  <priority>0.40</priority>
+</url>
+ 
+<url>
+  <loc>http://site.ru/second/b1/c2</loc>
+  <lastmod>2018-04-11T08:40:20+02:00</lastmod>
+  <priority>0.40</priority>
+</url>
+ 
+<url>
+  <loc>http://site.ru/second/b1/c3</loc>
+  <lastmod>2018-04-11T08:40:20+02:00</lastmod>
+  <priority>0.40</priority>
+</url>
+ 
+<url>
+  <loc>http://site.ru/second/b2</loc>
+  <lastmod>2018-04-11T08:40:20+02:00</lastmod>
+  <priority>0.60</priority>
+</url>
+ 
+<url>
+  <loc>http://site.ru/second/b2/d1</loc>
+  <lastmod>2018-04-11T08:40:20+02:00</lastmod>
+  <priority>0.40</priority>
+</url>
+ 
+<url>
+  <loc>http://site.ru/second/b2/d2</loc>
+  <lastmod>2018-04-11T08:40:20+02:00</lastmod>
+  <priority>0.40</priority>
+</url>
+ 
+<url>
+  <loc>http://site.ru/second/b2/d3</loc>
+  <lastmod>2018-04-11T08:40:20+02:00</lastmod>
+  <priority>0.40</priority>
+</url>
+</urlset>
